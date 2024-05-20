@@ -1,6 +1,8 @@
 # 01) Initial admixture of empirical pig data
 
-Here we run [ADMIXTURE](https://dalexander.github.io/admixture/download.html) for 1 to 5 clusters.
+Here we run [ADMIXTURE](https://dalexander.github.io/admixture/download.html) for 1 to 5 clusters. We provide the `gscramble-pigs-keep` BED/BIM/FAM files in the `./data/` directory - these are the 160 genotyped samples with the 14,233 filtered loci.
+
+
 ```sh
 cd ./out
 for K in {1..5}; do ../software/admixture --cv ../data/gscramble-pigs-keep.bed $K -j8 | tee log${K}.out; done
@@ -67,3 +69,8 @@ p.q3
 ```
 
 <img src="./plots/admixture.q3.empirical.jpg" alt="CV" width="600"/>
+
+
+This was done to confirm that we had sampled from 3 relatively distinct populations, and a group of individuals ("Contact") that were hybrids of the 3 populations. 
+
+Now to [Step 2: gscramble simulations](https://github.com/mgdesaix/gscramble-paper-pigs/blob/main/scripts/02_gscramble_simulations/README.md)

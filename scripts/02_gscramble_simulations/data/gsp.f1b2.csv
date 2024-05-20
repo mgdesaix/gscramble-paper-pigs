@@ -1,0 +1,16 @@
+ind,par1,par2,ipar1,ipar2,hap1,hap2,hpop1,hpop2,sample,osample
+1,NA,NA,NA,NA,1a,1b,p1,p1,NA,NA
+2,NA,NA,NA,NA,2a,2b,p2,p2,NA,NA
+3,NA,NA,NA,NA,3a,3b,p1,p1,NA,NA
+4,NA,NA,NA,NA,4a,4b,p1,p1,NA,NA
+5,NA,NA,NA,NA,5a,5b,p1,p1,NA,NA
+6,NA,NA,NA,NA,6a,6b,p1,p1,NA,NA
+7,NA,NA,NA,NA,7a,7b,p1,p1,NA,NA
+8,NA,NA,NA,NA,8a,8b,p1,p1,NA,NA
+9,1,2,2,2,NA,NA,NA,NA,NA,NA
+10,3,9,2,2,NA,NA,NA,NA,NA,NA
+11,4,9,2,2,NA,NA,NA,NA,NA,NA
+12,5,10,2,2,NA,NA,NA,NA,s12,2
+13,6,10,2,2,NA,NA,NA,NA,s13,2
+14,7,11,2,2,NA,NA,NA,NA,s14,2
+15,8,11,2,2,NA,NA,NA,NA,s15,2
