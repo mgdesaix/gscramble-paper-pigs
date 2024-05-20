@@ -28,6 +28,6 @@ p.cv <- ggplot(cv.df) +
 p.cv
 ```
 
-<img src="images/bcrf.sex.k2.barplot.pdf" alt="ancestry" width="600"/>
+<img src="./plots/admixture.crossvalidation.empirical.png" alt="CV" width="600"/>
 
 
