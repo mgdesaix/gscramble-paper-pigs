@@ -97,6 +97,6 @@ p.multi.sim <- ggarrange(p.all.hybrid.class,
 p.multi.sim
 ```
 
-<img src="./plots/simulation-density-multipanel.jpg" alt="CV" width="600"/>
+<img src="./plots/simulation-density-multipanel.jpg" alt="CV" width="800"/>
 
 
