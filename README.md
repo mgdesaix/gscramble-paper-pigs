@@ -1,6 +1,6 @@
 # gscramble-paper-pigs
 
-[![DOI](https://zenodo.org/badge/504563380.svg)](https://doi.org/10.5281/zenodo.14271038)
+[![DOI](https://zenodo.org/badge/803078281.svg)](https://doi.org/10.5281/zenodo.14271037)
 
 Invasive wild pig data and scripts used in the gscramble publication - the gscramble package is [available on CRAN](https://cran.r-project.org/web/packages/gscramble/index.html).
 
