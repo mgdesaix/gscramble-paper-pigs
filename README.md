@@ -1,5 +1,7 @@
 # gscramble-paper-pigs
 
+[![DOI](https://zenodo.org/badge/504563380.svg)](https://doi.org/10.5281/zenodo.14271038)
+
 Invasive wild pig data and scripts used in the gscramble publication - the gscramble package is [available on CRAN](https://cran.r-project.org/web/packages/gscramble/index.html).
 
 The analysis of the pig data involved 3 main steps. Details of the code used in each step can be found in the corresponding section below:
